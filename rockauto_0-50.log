@@ -1,0 +1,528 @@
+2021-07-20,18:42:32.110 INFO {AsyncConcurrency} [main] Reading part numbers...
+2021-07-20,18:42:32.119 INFO {AsyncConcurrency} [main] 50 part numbers found...
+2021-07-20,18:42:32.125 INFO {AsyncConcurrency} [renew_tor] LOOKING FOR NEW IP...
+2021-07-20,18:42:32.127 DEBUG {log} [log] GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2021-07-20,18:42:32.128 INFO {AsyncConcurrency} [renew_tor] New ip address is available.
+2021-07-20,18:42:36.157 INFO {AsyncConcurrency} [main] NEW IP ADDRESS IS ... (199.249.230.159)
+2021-07-20,18:42:36.157 INFO {AsyncConcurrency} [main] 14102007 has been added to the task list.
+						So far (1) Part Number has been added to the task list.
+2021-07-20,18:42:36.157 INFO {AsyncConcurrency} [renew_tor] LOOKING FOR NEW IP...
+2021-07-20,18:42:36.158 TRACE {log} [log] GETCONF __owningcontrollerprocess (cache fetch)
+2021-07-20,18:42:39.127 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:02.718667 seconds ... (14102007)
+2021-07-20,18:42:39.331 INFO {copy_main} [get_part_number] 14102007 successfully found
+2021-07-20,18:42:39.331 INFO {copy_main} [get_images] Getting images for ... (14102007)
+2021-07-20,18:42:39.332 INFO {copy_main} [wrapper] Form data is processing ... (14102007)
+2021-07-20,18:42:39.332 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102007)
+2021-07-20,18:42:39.833 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102007)
+2021-07-20,18:42:40.436 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.601730 seconds ... (14102007)
+2021-07-20,18:42:40.437 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102007)
+2021-07-20,18:42:40.437 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102007)
+2021-07-20,18:42:48.106 INFO {AsyncConcurrency} [renew_tor] New ip address is not available yet. Waiting for 11.939035415649414 seconds.
+2021-07-20,18:42:49.738 INFO {AsyncConcurrency} [main] NEW IP ADDRESS IS ... (51.210.80.127)
+2021-07-20,18:42:49.738 INFO {AsyncConcurrency} [main] 14102008 has been added to the task list.
+						So far (2) Part Number has been added to the task list.
+2021-07-20,18:42:49.739 INFO {AsyncConcurrency} [main] 14102013 has been added to the task list.
+						So far (3) Part Number has been added to the task list.
+2021-07-20,18:42:52.736 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:02.744701 seconds ... (14102013)
+2021-07-20,18:42:52.928 INFO {copy_main} [get_part_number] 14102013 successfully found
+2021-07-20,18:42:52.928 INFO {copy_main} [get_images] Getting images for ... (14102013)
+2021-07-20,18:42:52.929 INFO {copy_main} [wrapper] Form data is processing ... (14102013)
+2021-07-20,18:42:52.929 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102013)
+2021-07-20,18:42:52.931 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:02.940967 seconds ... (14102008)
+2021-07-20,18:42:53.138 INFO {copy_main} [get_part_number] 14102008 successfully found
+2021-07-20,18:42:53.138 INFO {copy_main} [get_images] Getting images for ... (14102008)
+2021-07-20,18:42:53.138 INFO {copy_main} [wrapper] Form data is processing ... (14102008)
+2021-07-20,18:42:53.139 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102008)
+2021-07-20,18:42:53.430 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102013)
+2021-07-20,18:42:53.641 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102008)
+2021-07-20,18:42:53.856 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.424345 seconds ... (14102013)
+2021-07-20,18:42:53.857 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102013)
+2021-07-20,18:42:53.857 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102013)
+2021-07-20,18:42:53.858 INFO {AsyncConcurrency} [main] 14102014 has been added to the task list.
+						So far (4) Part Number has been added to the task list.
+2021-07-20,18:42:54.083 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.441083 seconds ... (14102008)
+2021-07-20,18:42:54.084 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102008)
+2021-07-20,18:42:54.084 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102008)
+2021-07-20,18:42:54.085 INFO {AsyncConcurrency} [main] 14102015 has been added to the task list.
+						So far (5) Part Number has been added to the task list.
+2021-07-20,18:42:55.081 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.972502 seconds ... (14102014)
+2021-07-20,18:42:55.268 INFO {copy_main} [get_part_number] 14102014 successfully found
+2021-07-20,18:42:55.268 INFO {copy_main} [get_images] Getting images for ... (14102014)
+2021-07-20,18:42:55.269 INFO {copy_main} [wrapper] Form data is processing ... (14102014)
+2021-07-20,18:42:55.269 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102014)
+2021-07-20,18:42:55.453 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.116053 seconds ... (14102015)
+2021-07-20,18:42:55.681 INFO {copy_main} [get_part_number] 14102015 successfully found
+2021-07-20,18:42:55.681 INFO {copy_main} [get_images] Getting images for ... (14102015)
+2021-07-20,18:42:55.681 INFO {copy_main} [wrapper] Form data is processing ... (14102015)
+2021-07-20,18:42:55.682 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102015)
+2021-07-20,18:42:55.770 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102014)
+2021-07-20,18:42:56.184 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.412214 seconds ... (14102014)
+2021-07-20,18:42:56.184 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102014)
+2021-07-20,18:42:56.185 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102014)
+2021-07-20,18:42:56.185 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102015)
+2021-07-20,18:42:56.187 INFO {AsyncConcurrency} [main] 14102016 has been added to the task list.
+						So far (6) Part Number has been added to the task list.
+2021-07-20,18:42:56.654 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.467264 seconds ... (14102015)
+2021-07-20,18:42:56.654 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102015)
+2021-07-20,18:42:56.655 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102015)
+2021-07-20,18:42:56.655 INFO {AsyncConcurrency} [main] 14102503 has been added to the task list.
+						So far (7) Part Number has been added to the task list.
+2021-07-20,18:42:57.376 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.935988 seconds ... (14102016)
+2021-07-20,18:42:57.642 INFO {copy_main} [get_part_number] 14102016 successfully found
+2021-07-20,18:42:57.642 INFO {copy_main} [get_images] Getting images for ... (14102016)
+2021-07-20,18:42:57.643 INFO {copy_main} [wrapper] Form data is processing ... (14102016)
+2021-07-20,18:42:57.643 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102016)
+2021-07-20,18:42:57.932 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.025380 seconds ... (14102503)
+2021-07-20,18:42:58.178 INFO {copy_main} [get_part_number] 14102503 successfully found
+2021-07-20,18:42:58.179 INFO {copy_main} [get_images] Getting images for ... (14102503)
+2021-07-20,18:42:58.179 INFO {copy_main} [wrapper] Form data is processing ... (14102503)
+2021-07-20,18:42:58.179 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102503)
+2021-07-20,18:42:58.180 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102016)
+2021-07-20,18:42:58.657 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.476618 seconds ... (14102016)
+2021-07-20,18:42:58.662 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102016)
+2021-07-20,18:42:58.662 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102016)
+2021-07-20,18:42:58.663 INFO {AsyncConcurrency} [main] 14102504 has been added to the task list.
+						So far (8) Part Number has been added to the task list.
+2021-07-20,18:42:58.680 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102503)
+2021-07-20,18:42:59.112 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.430498 seconds ... (14102503)
+2021-07-20,18:42:59.113 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102503)
+2021-07-20,18:42:59.113 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102503)
+2021-07-20,18:42:59.113 INFO {AsyncConcurrency} [main] 14102505 has been added to the task list.
+						So far (9) Part Number has been added to the task list.
+2021-07-20,18:42:59.908 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.993108 seconds ... (14102504)
+2021-07-20,18:43:00.210 INFO {copy_main} [get_part_number] 14102504 successfully found
+2021-07-20,18:43:00.211 INFO {copy_main} [get_images] Getting images for ... (14102504)
+2021-07-20,18:43:00.211 INFO {copy_main} [wrapper] Form data is processing ... (14102504)
+2021-07-20,18:43:00.212 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102504)
+2021-07-20,18:43:00.354 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.988875 seconds ... (14102505)
+2021-07-20,18:43:00.608 INFO {copy_main} [get_part_number] 14102505 successfully found
+2021-07-20,18:43:00.609 INFO {copy_main} [get_images] Getting images for ... (14102505)
+2021-07-20,18:43:00.609 INFO {copy_main} [wrapper] Form data is processing ... (14102505)
+2021-07-20,18:43:00.610 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102505)
+2021-07-20,18:43:00.712 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102504)
+2021-07-20,18:43:01.111 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102505)
+2021-07-20,18:43:01.208 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.494779 seconds ... (14102504)
+2021-07-20,18:43:01.209 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102504)
+2021-07-20,18:43:01.209 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102504)
+2021-07-20,18:43:01.210 INFO {AsyncConcurrency} [main] 14102506 has been added to the task list.
+						So far (10) Part Number has been added to the task list.
+2021-07-20,18:43:01.575 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.462884 seconds ... (14102505)
+2021-07-20,18:43:01.576 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102505)
+2021-07-20,18:43:01.577 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102505)
+2021-07-20,18:43:01.577 INFO {AsyncConcurrency} [main] 14102509 has been added to the task list.
+						So far (11) Part Number has been added to the task list.
+2021-07-20,18:43:02.433 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.970748 seconds ... (14102506)
+2021-07-20,18:43:02.762 INFO {copy_main} [get_part_number] 14102506 successfully found
+2021-07-20,18:43:02.762 INFO {copy_main} [get_images] Getting images for ... (14102506)
+2021-07-20,18:43:02.763 INFO {copy_main} [wrapper] Form data is processing ... (14102506)
+2021-07-20,18:43:02.763 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102506)
+2021-07-20,18:43:03.265 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102506)
+2021-07-20,18:43:03.307 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.478697 seconds ... (14102509)
+2021-07-20,18:43:03.561 INFO {copy_main} [get_part_number] 14102509 successfully found
+2021-07-20,18:43:03.561 INFO {copy_main} [get_images] Getting images for ... (14102509)
+2021-07-20,18:43:03.562 INFO {copy_main} [wrapper] Form data is processing ... (14102509)
+2021-07-20,18:43:03.563 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102509)
+2021-07-20,18:43:03.751 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.484922 seconds ... (14102506)
+2021-07-20,18:43:03.752 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102506)
+2021-07-20,18:43:03.752 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102506)
+2021-07-20,18:43:03.753 INFO {AsyncConcurrency} [main] 14102510 has been added to the task list.
+						So far (12) Part Number has been added to the task list.
+2021-07-20,18:43:04.065 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102509)
+2021-07-20,18:43:04.523 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.457041 seconds ... (14102509)
+2021-07-20,18:43:04.525 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102509)
+2021-07-20,18:43:04.525 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102509)
+2021-07-20,18:43:04.526 INFO {AsyncConcurrency} [main] 14104001 has been added to the task list.
+						So far (13) Part Number has been added to the task list.
+2021-07-20,18:43:04.959 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.954757 seconds ... (14102510)
+2021-07-20,18:43:05.211 INFO {copy_main} [get_part_number] 14102510 successfully found
+2021-07-20,18:43:05.212 INFO {copy_main} [get_images] Getting images for ... (14102510)
+2021-07-20,18:43:05.212 INFO {copy_main} [wrapper] Form data is processing ... (14102510)
+2021-07-20,18:43:05.213 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14102510)
+2021-07-20,18:43:05.714 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14102510)
+2021-07-20,18:43:05.864 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.085825 seconds ... (14104001)
+2021-07-20,18:43:06.200 INFO {copy_main} [get_part_number] 14104001 successfully found
+2021-07-20,18:43:06.200 INFO {copy_main} [get_images] Getting images for ... (14104001)
+2021-07-20,18:43:06.201 INFO {copy_main} [wrapper] Form data is processing ... (14104001)
+2021-07-20,18:43:06.202 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104001)
+2021-07-20,18:43:06.202 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.487425 seconds ... (14102510)
+2021-07-20,18:43:06.204 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14102510)
+2021-07-20,18:43:06.204 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14102510)
+2021-07-20,18:43:06.205 INFO {AsyncConcurrency} [main] 14104002 has been added to the task list.
+						So far (14) Part Number has been added to the task list.
+2021-07-20,18:43:06.703 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104001)
+2021-07-20,18:43:07.252 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.547975 seconds ... (14104001)
+2021-07-20,18:43:07.253 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104001)
+2021-07-20,18:43:07.253 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104001)
+2021-07-20,18:43:07.254 INFO {AsyncConcurrency} [main] 14104003 has been added to the task list.
+						So far (15) Part Number has been added to the task list.
+2021-07-20,18:43:07.437 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.981201 seconds ... (14104002)
+2021-07-20,18:43:07.668 INFO {copy_main} [get_part_number] 14104002 successfully found
+2021-07-20,18:43:07.668 INFO {copy_main} [get_images] Getting images for ... (14104002)
+2021-07-20,18:43:07.668 INFO {copy_main} [wrapper] Form data is processing ... (14104002)
+2021-07-20,18:43:07.669 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104002)
+2021-07-20,18:43:08.170 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104002)
+2021-07-20,18:43:08.665 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.995549 seconds ... (14104003)
+2021-07-20,18:43:08.853 INFO {copy_main} [get_part_number] 14104003 successfully found
+2021-07-20,18:43:08.854 INFO {copy_main} [get_images] Getting images for ... (14104003)
+2021-07-20,18:43:08.854 INFO {copy_main} [wrapper] Form data is processing ... (14104003)
+2021-07-20,18:43:08.855 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104003)
+2021-07-20,18:43:08.856 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.684349 seconds ... (14104002)
+2021-07-20,18:43:08.856 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104002)
+2021-07-20,18:43:08.856 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104002)
+2021-07-20,18:43:08.857 INFO {AsyncConcurrency} [main] 14104004 has been added to the task list.
+						So far (16) Part Number has been added to the task list.
+2021-07-20,18:43:09.356 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104003)
+2021-07-20,18:43:09.847 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.489145 seconds ... (14104003)
+2021-07-20,18:43:09.847 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104003)
+2021-07-20,18:43:09.848 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104003)
+2021-07-20,18:43:09.848 INFO {AsyncConcurrency} [main] 14104005 has been added to the task list.
+						So far (17) Part Number has been added to the task list.
+2021-07-20,18:43:10.028 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.919404 seconds ... (14104004)
+2021-07-20,18:43:10.322 INFO {copy_main} [get_part_number] 14104004 successfully found
+2021-07-20,18:43:10.323 INFO {copy_main} [get_images] Getting images for ... (14104004)
+2021-07-20,18:43:10.323 INFO {copy_main} [wrapper] Form data is processing ... (14104004)
+2021-07-20,18:43:10.324 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104004)
+2021-07-20,18:43:10.825 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104004)
+2021-07-20,18:43:11.277 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.952558 seconds ... (14104005)
+2021-07-20,18:43:11.463 INFO {copy_main} [get_part_number] 14104005 successfully found
+2021-07-20,18:43:11.463 INFO {copy_main} [get_images] Getting images for ... (14104005)
+2021-07-20,18:43:11.464 INFO {copy_main} [wrapper] Form data is processing ... (14104005)
+2021-07-20,18:43:11.464 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104005)
+2021-07-20,18:43:11.465 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.638851 seconds ... (14104004)
+2021-07-20,18:43:11.465 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104004)
+2021-07-20,18:43:11.466 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104004)
+2021-07-20,18:43:11.466 INFO {AsyncConcurrency} [main] 14104006 has been added to the task list.
+						So far (18) Part Number has been added to the task list.
+2021-07-20,18:43:11.966 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104005)
+2021-07-20,18:43:12.444 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.477116 seconds ... (14104005)
+2021-07-20,18:43:12.446 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104005)
+2021-07-20,18:43:12.446 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104005)
+2021-07-20,18:43:12.446 INFO {AsyncConcurrency} [main] 14104013 has been added to the task list.
+						So far (19) Part Number has been added to the task list.
+2021-07-20,18:43:12.655 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.936936 seconds ... (14104006)
+2021-07-20,18:43:12.844 INFO {copy_main} [get_part_number] 14104006 successfully found
+2021-07-20,18:43:12.845 INFO {copy_main} [get_images] Getting images for ... (14104006)
+2021-07-20,18:43:12.845 INFO {copy_main} [wrapper] Form data is processing ... (14104006)
+2021-07-20,18:43:12.846 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104006)
+2021-07-20,18:43:13.347 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104006)
+2021-07-20,18:43:13.855 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.007845 seconds ... (14104013)
+2021-07-20,18:43:14.043 INFO {copy_main} [get_part_number] 14104013 successfully found
+2021-07-20,18:43:14.043 INFO {copy_main} [get_images] Getting images for ... (14104013)
+2021-07-20,18:43:14.044 INFO {copy_main} [wrapper] Form data is processing ... (14104013)
+2021-07-20,18:43:14.045 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104013)
+2021-07-20,18:43:14.046 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.697418 seconds ... (14104006)
+2021-07-20,18:43:14.047 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104006)
+2021-07-20,18:43:14.048 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104006)
+2021-07-20,18:43:14.048 INFO {AsyncConcurrency} [main] 14104014 has been added to the task list.
+						So far (20) Part Number has been added to the task list.
+2021-07-20,18:43:14.545 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104013)
+2021-07-20,18:43:15.062 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.515350 seconds ... (14104013)
+2021-07-20,18:43:15.063 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104013)
+2021-07-20,18:43:15.063 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104013)
+2021-07-20,18:43:15.064 INFO {AsyncConcurrency} [main] 14104501 has been added to the task list.
+						So far (21) Part Number has been added to the task list.
+2021-07-20,18:43:15.256 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.956455 seconds ... (14104014)
+2021-07-20,18:43:15.447 INFO {copy_main} [get_part_number] 14104014 successfully found
+2021-07-20,18:43:15.448 INFO {copy_main} [get_images] Getting images for ... (14104014)
+2021-07-20,18:43:15.448 INFO {copy_main} [wrapper] Form data is processing ... (14104014)
+2021-07-20,18:43:15.449 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104014)
+2021-07-20,18:43:15.950 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104014)
+2021-07-20,18:43:16.436 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.985839 seconds ... (14104501)
+2021-07-20,18:43:16.761 INFO {copy_main} [get_part_number] 14104501 successfully found
+2021-07-20,18:43:16.761 INFO {copy_main} [get_images] Getting images for ... (14104501)
+2021-07-20,18:43:16.762 INFO {copy_main} [wrapper] Form data is processing ... (14104501)
+2021-07-20,18:43:16.762 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104501)
+2021-07-20,18:43:16.763 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.811799 seconds ... (14104014)
+2021-07-20,18:43:16.764 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104014)
+2021-07-20,18:43:16.764 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104014)
+2021-07-20,18:43:16.765 INFO {AsyncConcurrency} [main] 14104502 has been added to the task list.
+						So far (22) Part Number has been added to the task list.
+2021-07-20,18:43:17.263 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104501)
+2021-07-20,18:43:17.860 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.596133 seconds ... (14104501)
+2021-07-20,18:43:17.861 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104501)
+2021-07-20,18:43:17.861 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104501)
+2021-07-20,18:43:17.862 INFO {AsyncConcurrency} [main] 14104503 has been added to the task list.
+						So far (23) Part Number has been added to the task list.
+2021-07-20,18:43:17.961 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.944525 seconds ... (14104502)
+2021-07-20,18:43:18.150 INFO {copy_main} [get_part_number] 14104502 successfully found
+2021-07-20,18:43:18.151 INFO {copy_main} [get_images] Getting images for ... (14104502)
+2021-07-20,18:43:18.151 INFO {copy_main} [wrapper] Form data is processing ... (14104502)
+2021-07-20,18:43:18.152 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104502)
+2021-07-20,18:43:18.653 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104502)
+2021-07-20,18:43:19.200 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.046854 seconds ... (14104503)
+2021-07-20,18:43:19.388 INFO {copy_main} [get_part_number] 14104503 successfully found
+2021-07-20,18:43:19.388 INFO {copy_main} [get_images] Getting images for ... (14104503)
+2021-07-20,18:43:19.388 INFO {copy_main} [wrapper] Form data is processing ... (14104503)
+2021-07-20,18:43:19.389 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104503)
+2021-07-20,18:43:19.390 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.735060 seconds ... (14104502)
+2021-07-20,18:43:19.390 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104502)
+2021-07-20,18:43:19.391 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104502)
+2021-07-20,18:43:19.391 INFO {AsyncConcurrency} [main] 14104504 has been added to the task list.
+						So far (24) Part Number has been added to the task list.
+2021-07-20,18:43:19.890 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104503)
+2021-07-20,18:43:20.390 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.498477 seconds ... (14104503)
+2021-07-20,18:43:20.391 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104503)
+2021-07-20,18:43:20.391 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104503)
+2021-07-20,18:43:20.392 INFO {AsyncConcurrency} [main] 14104505 has been added to the task list.
+						So far (25) Part Number has been added to the task list.
+2021-07-20,18:43:20.392 INFO {AsyncConcurrency} [renew_tor] LOOKING FOR NEW IP...
+2021-07-20,18:43:20.393 TRACE {log} [log] GETCONF __owningcontrollerprocess (cache fetch)
+2021-07-20,18:43:20.393 INFO {AsyncConcurrency} [renew_tor] New ip address is available.
+2021-07-20,18:43:21.089 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.446354 seconds ... (14104504)
+2021-07-20,18:43:21.278 INFO {copy_main} [get_part_number] 14104504 successfully found
+2021-07-20,18:43:21.278 INFO {copy_main} [get_images] Getting images for ... (14104504)
+2021-07-20,18:43:21.279 INFO {copy_main} [wrapper] Form data is processing ... (14104504)
+2021-07-20,18:43:21.279 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104504)
+2021-07-20,18:43:21.779 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104504)
+2021-07-20,18:43:22.057 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.264387 seconds ... (14104505)
+2021-07-20,18:43:22.246 INFO {copy_main} [get_part_number] 14104505 successfully found
+2021-07-20,18:43:22.246 INFO {copy_main} [get_images] Getting images for ... (14104505)
+2021-07-20,18:43:22.247 INFO {copy_main} [wrapper] Form data is processing ... (14104505)
+2021-07-20,18:43:22.247 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104505)
+2021-07-20,18:43:22.248 INFO {AsyncConcurrency} [main] NEW IP ADDRESS IS ... (185.220.100.252)
+2021-07-20,18:43:22.249 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.468328 seconds ... (14104504)
+2021-07-20,18:43:22.249 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104504)
+2021-07-20,18:43:22.250 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104504)
+2021-07-20,18:43:22.250 INFO {AsyncConcurrency} [main] 14104506 has been added to the task list.
+						So far (26) Part Number has been added to the task list.
+2021-07-20,18:43:22.748 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104505)
+2021-07-20,18:43:23.254 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.503982 seconds ... (14104505)
+2021-07-20,18:43:23.254 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104505)
+2021-07-20,18:43:23.255 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104505)
+2021-07-20,18:43:23.255 INFO {AsyncConcurrency} [main] 14106001 has been added to the task list.
+						So far (27) Part Number has been added to the task list.
+2021-07-20,18:43:23.506 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.003982 seconds ... (14104506)
+2021-07-20,18:43:23.866 INFO {copy_main} [get_part_number] 14104506 successfully found
+2021-07-20,18:43:23.867 INFO {copy_main} [get_images] Getting images for ... (14104506)
+2021-07-20,18:43:23.867 INFO {copy_main} [wrapper] Form data is processing ... (14104506)
+2021-07-20,18:43:23.868 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14104506)
+2021-07-20,18:43:24.369 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14104506)
+2021-07-20,18:43:24.827 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.958353 seconds ... (14106001)
+2021-07-20,18:43:25.013 INFO {copy_main} [get_part_number] 14106001 successfully found
+2021-07-20,18:43:25.014 INFO {copy_main} [get_images] Getting images for ... (14106001)
+2021-07-20,18:43:25.014 INFO {copy_main} [wrapper] Form data is processing ... (14106001)
+2021-07-20,18:43:25.015 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14106001)
+2021-07-20,18:43:25.016 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.645353 seconds ... (14104506)
+2021-07-20,18:43:25.016 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14104506)
+2021-07-20,18:43:25.016 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14104506)
+2021-07-20,18:43:25.017 INFO {AsyncConcurrency} [main] 14106002 has been added to the task list.
+						So far (28) Part Number has been added to the task list.
+2021-07-20,18:43:25.515 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14106001)
+2021-07-20,18:43:26.051 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.534251 seconds ... (14106001)
+2021-07-20,18:43:26.052 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14106001)
+2021-07-20,18:43:26.052 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14106001)
+2021-07-20,18:43:26.052 INFO {AsyncConcurrency} [main] 14106501 has been added to the task list.
+						So far (29) Part Number has been added to the task list.
+2021-07-20,18:43:26.272 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.003645 seconds ... (14106002)
+2021-07-20,18:43:26.461 INFO {copy_main} [get_part_number] 14106002 successfully found
+2021-07-20,18:43:26.461 INFO {copy_main} [get_images] Getting images for ... (14106002)
+2021-07-20,18:43:26.462 INFO {copy_main} [wrapper] Form data is processing ... (14106002)
+2021-07-20,18:43:26.462 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14106002)
+2021-07-20,18:43:26.963 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14106002)
+2021-07-20,18:43:27.446 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.982583 seconds ... (14106501)
+2021-07-20,18:43:27.633 INFO {copy_main} [get_part_number] 14106501 successfully found
+2021-07-20,18:43:27.633 INFO {copy_main} [get_images] Getting images for ... (14106501)
+2021-07-20,18:43:27.634 INFO {copy_main} [wrapper] Form data is processing ... (14106501)
+2021-07-20,18:43:27.634 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14106501)
+2021-07-20,18:43:27.635 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.670164 seconds ... (14106002)
+2021-07-20,18:43:27.636 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14106002)
+2021-07-20,18:43:27.636 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14106002)
+2021-07-20,18:43:27.636 INFO {AsyncConcurrency} [main] 14106502 has been added to the task list.
+						So far (30) Part Number has been added to the task list.
+2021-07-20,18:43:28.135 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14106501)
+2021-07-20,18:43:28.613 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.476837 seconds ... (14106501)
+2021-07-20,18:43:28.614 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14106501)
+2021-07-20,18:43:28.614 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14106501)
+2021-07-20,18:43:28.615 INFO {AsyncConcurrency} [main] 14110017 has been added to the task list.
+						So far (31) Part Number has been added to the task list.
+2021-07-20,18:43:28.953 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.065732 seconds ... (14106502)
+2021-07-20,18:43:29.145 INFO {copy_main} [get_part_number] 14106502 successfully found
+2021-07-20,18:43:29.145 INFO {copy_main} [get_images] Getting images for ... (14106502)
+2021-07-20,18:43:29.146 INFO {copy_main} [wrapper] Form data is processing ... (14106502)
+2021-07-20,18:43:29.146 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14106502)
+2021-07-20,18:43:29.647 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14106502)
+2021-07-20,18:43:29.922 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.055922 seconds ... (14110017)
+2021-07-20,18:43:30.110 INFO {copy_main} [get_part_number] 14110017 successfully found
+2021-07-20,18:43:30.110 INFO {copy_main} [get_images] Getting images for ... (14110017)
+2021-07-20,18:43:30.110 INFO {copy_main} [wrapper] Form data is processing ... (14110017)
+2021-07-20,18:43:30.111 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14110017)
+2021-07-20,18:43:30.112 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.463959 seconds ... (14106502)
+2021-07-20,18:43:30.113 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14106502)
+2021-07-20,18:43:30.113 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14106502)
+2021-07-20,18:43:30.113 INFO {AsyncConcurrency} [main] 14110018 has been added to the task list.
+						So far (32) Part Number has been added to the task list.
+2021-07-20,18:43:30.612 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14110017)
+2021-07-20,18:43:31.069 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.454599 seconds ... (14110017)
+2021-07-20,18:43:31.069 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14110017)
+2021-07-20,18:43:31.070 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14110017)
+2021-07-20,18:43:31.070 INFO {AsyncConcurrency} [main] 14110503 has been added to the task list.
+						So far (33) Part Number has been added to the task list.
+2021-07-20,18:43:31.283 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.917264 seconds ... (14110018)
+2021-07-20,18:43:31.471 INFO {copy_main} [get_part_number] 14110018 successfully found
+2021-07-20,18:43:31.471 INFO {copy_main} [get_images] Getting images for ... (14110018)
+2021-07-20,18:43:31.471 INFO {copy_main} [wrapper] Form data is processing ... (14110018)
+2021-07-20,18:43:31.472 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14110018)
+2021-07-20,18:43:31.973 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14110018)
+2021-07-20,18:43:32.442 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.968887 seconds ... (14110503)
+2021-07-20,18:43:32.859 INFO {copy_main} [get_part_number] 14110503 successfully found
+2021-07-20,18:43:32.859 INFO {copy_main} [get_images] Getting images for ... (14110503)
+2021-07-20,18:43:32.859 INFO {copy_main} [wrapper] Form data is processing ... (14110503)
+2021-07-20,18:43:32.860 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14110503)
+2021-07-20,18:43:32.861 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.886419 seconds ... (14110018)
+2021-07-20,18:43:32.861 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14110018)
+2021-07-20,18:43:32.862 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14110018)
+2021-07-20,18:43:32.862 INFO {AsyncConcurrency} [main] 14110504 has been added to the task list.
+						So far (34) Part Number has been added to the task list.
+2021-07-20,18:43:33.361 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14110503)
+2021-07-20,18:43:33.840 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.478487 seconds ... (14110503)
+2021-07-20,18:43:33.841 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14110503)
+2021-07-20,18:43:33.841 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14110503)
+2021-07-20,18:43:33.842 INFO {AsyncConcurrency} [main] 14111003 has been added to the task list.
+						So far (35) Part Number has been added to the task list.
+2021-07-20,18:43:34.077 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.963635 seconds ... (14110504)
+2021-07-20,18:43:34.265 INFO {copy_main} [get_part_number] 14110504 successfully found
+2021-07-20,18:43:34.265 INFO {copy_main} [get_images] Getting images for ... (14110504)
+2021-07-20,18:43:34.266 INFO {copy_main} [wrapper] Form data is processing ... (14110504)
+2021-07-20,18:43:34.266 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14110504)
+2021-07-20,18:43:34.768 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14110504)
+2021-07-20,18:43:35.234 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.464671 seconds ... (14110504)
+2021-07-20,18:43:35.234 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14110504)
+2021-07-20,18:43:35.235 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14110504)
+2021-07-20,18:43:35.235 INFO {AsyncConcurrency} [main] 14111004 has been added to the task list.
+						So far (36) Part Number has been added to the task list.
+2021-07-20,18:43:35.681 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.413878 seconds ... (14111003)
+2021-07-20,18:43:35.869 INFO {copy_main} [get_part_number] 14111003 successfully found
+2021-07-20,18:43:35.870 INFO {copy_main} [get_images] Getting images for ... (14111003)
+2021-07-20,18:43:35.870 INFO {copy_main} [wrapper] Form data is processing ... (14111003)
+2021-07-20,18:43:35.871 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14111003)
+2021-07-20,18:43:36.372 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14111003)
+2021-07-20,18:43:36.477 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.990083 seconds ... (14111004)
+2021-07-20,18:43:36.667 INFO {copy_main} [get_part_number] 14111004 successfully found
+2021-07-20,18:43:36.668 INFO {copy_main} [get_images] Getting images for ... (14111004)
+2021-07-20,18:43:36.668 INFO {copy_main} [wrapper] Form data is processing ... (14111004)
+2021-07-20,18:43:36.669 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14111004)
+2021-07-20,18:43:37.061 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.688281 seconds ... (14111003)
+2021-07-20,18:43:37.062 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14111003)
+2021-07-20,18:43:37.062 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14111003)
+2021-07-20,18:43:37.063 INFO {AsyncConcurrency} [main] 14111035 has been added to the task list.
+						So far (37) Part Number has been added to the task list.
+2021-07-20,18:43:37.170 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14111004)
+2021-07-20,18:43:37.699 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.528229 seconds ... (14111004)
+2021-07-20,18:43:37.700 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14111004)
+2021-07-20,18:43:37.700 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14111004)
+2021-07-20,18:43:37.701 INFO {AsyncConcurrency} [main] 14111036 has been added to the task list.
+						So far (38) Part Number has been added to the task list.
+2021-07-20,18:43:38.998 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.682127 seconds ... (14111035)
+2021-07-20,18:43:39.182 ERROR {copy_main} [get_part_number] Error: occurred while trying to get part's listing id number. (14111035)
+2021-07-20,18:43:39.183 INFO {AsyncConcurrency} [main] 14111045 has been added to the task list.
+						So far (39) Part Number has been added to the task list.
+2021-07-20,18:43:39.661 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.708552 seconds ... (14111036)
+2021-07-20,18:43:39.844 ERROR {copy_main} [get_part_number] Error: occurred while trying to get part's listing id number. (14111036)
+2021-07-20,18:43:39.844 INFO {AsyncConcurrency} [main] 14111046 has been added to the task list.
+						So far (40) Part Number has been added to the task list.
+2021-07-20,18:43:41.097 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.663479 seconds ... (14111045)
+2021-07-20,18:43:41.282 ERROR {copy_main} [get_part_number] Error: occurred while trying to get part's listing id number. (14111045)
+2021-07-20,18:43:41.282 INFO {AsyncConcurrency} [main] 14111047 has been added to the task list.
+						So far (41) Part Number has been added to the task list.
+2021-07-20,18:43:41.677 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.581650 seconds ... (14111046)
+2021-07-20,18:43:41.861 ERROR {copy_main} [get_part_number] Error: occurred while trying to get part's listing id number. (14111046)
+2021-07-20,18:43:41.861 INFO {AsyncConcurrency} [main] 14111048 has been added to the task list.
+						So far (42) Part Number has been added to the task list.
+2021-07-20,18:43:43.139 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.605535 seconds ... (14111047)
+2021-07-20,18:43:43.598 ERROR {copy_main} [get_part_number] Error: occurred while trying to get part's listing id number. (14111047)
+2021-07-20,18:43:43.599 INFO {AsyncConcurrency} [main] 14120001 has been added to the task list.
+						So far (43) Part Number has been added to the task list.
+2021-07-20,18:43:43.765 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.652299 seconds ... (14111048)
+2021-07-20,18:43:43.965 ERROR {copy_main} [get_part_number] Error: occurred while trying to get part's listing id number. (14111048)
+2021-07-20,18:43:43.966 INFO {AsyncConcurrency} [main] 14120002 has been added to the task list.
+						So far (44) Part Number has been added to the task list.
+2021-07-20,18:43:45.008 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.040682 seconds ... (14120001)
+2021-07-20,18:43:45.205 INFO {copy_main} [get_part_number] 14120001 successfully found
+2021-07-20,18:43:45.206 INFO {copy_main} [get_images] Getting images for ... (14120001)
+2021-07-20,18:43:45.207 INFO {copy_main} [wrapper] Form data is processing ... (14120001)
+2021-07-20,18:43:45.207 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14120001)
+2021-07-20,18:43:45.575 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.356155 seconds ... (14120002)
+2021-07-20,18:43:45.769 INFO {copy_main} [get_part_number] 14120002 successfully found
+2021-07-20,18:43:45.769 INFO {copy_main} [get_images] Getting images for ... (14120002)
+2021-07-20,18:43:45.770 INFO {copy_main} [wrapper] Form data is processing ... (14120002)
+2021-07-20,18:43:45.770 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14120002)
+2021-07-20,18:43:45.770 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14120001)
+2021-07-20,18:43:46.234 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.462504 seconds ... (14120001)
+2021-07-20,18:43:46.235 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14120001)
+2021-07-20,18:43:46.235 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14120001)
+2021-07-20,18:43:46.236 INFO {AsyncConcurrency} [main] 14120003 has been added to the task list.
+						So far (45) Part Number has been added to the task list.
+2021-07-20,18:43:46.271 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14120002)
+2021-07-20,18:43:46.753 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.480868 seconds ... (14120002)
+2021-07-20,18:43:46.755 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14120002)
+2021-07-20,18:43:46.755 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14120002)
+2021-07-20,18:43:46.756 INFO {AsyncConcurrency} [main] 14120004 has been added to the task list.
+						So far (46) Part Number has been added to the task list.
+2021-07-20,18:43:47.488 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.000136 seconds ... (14120003)
+2021-07-20,18:43:47.678 INFO {copy_main} [get_part_number] 14120003 successfully found
+2021-07-20,18:43:47.678 INFO {copy_main} [get_images] Getting images for ... (14120003)
+2021-07-20,18:43:47.678 INFO {copy_main} [wrapper] Form data is processing ... (14120003)
+2021-07-20,18:43:47.679 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14120003)
+2021-07-20,18:43:48.005 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.997823 seconds ... (14120004)
+2021-07-20,18:43:48.195 INFO {copy_main} [get_part_number] 14120004 successfully found
+2021-07-20,18:43:48.195 INFO {copy_main} [get_images] Getting images for ... (14120004)
+2021-07-20,18:43:48.195 INFO {copy_main} [wrapper] Form data is processing ... (14120004)
+2021-07-20,18:43:48.196 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14120004)
+2021-07-20,18:43:48.196 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14120003)
+2021-07-20,18:43:48.697 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14120004)
+2021-07-20,18:43:48.725 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.527896 seconds ... (14120003)
+2021-07-20,18:43:48.726 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14120003)
+2021-07-20,18:43:48.726 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14120003)
+2021-07-20,18:43:48.727 INFO {AsyncConcurrency} [main] 14120005 has been added to the task list.
+						So far (47) Part Number has been added to the task list.
+2021-07-20,18:43:49.185 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.486145 seconds ... (14120004)
+2021-07-20,18:43:49.186 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14120004)
+2021-07-20,18:43:49.186 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14120004)
+2021-07-20,18:43:49.187 INFO {AsyncConcurrency} [main] 14120006 has been added to the task list.
+						So far (48) Part Number has been added to the task list.
+2021-07-20,18:43:49.987 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.009124 seconds ... (14120005)
+2021-07-20,18:43:50.179 INFO {copy_main} [get_part_number] 14120005 successfully found
+2021-07-20,18:43:50.180 INFO {copy_main} [get_images] Getting images for ... (14120005)
+2021-07-20,18:43:50.180 INFO {copy_main} [wrapper] Form data is processing ... (14120005)
+2021-07-20,18:43:50.181 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14120005)
+2021-07-20,18:43:50.379 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:00.940779 seconds ... (14120006)
+2021-07-20,18:43:50.570 INFO {copy_main} [get_part_number] 14120006 successfully found
+2021-07-20,18:43:50.570 INFO {copy_main} [get_images] Getting images for ... (14120006)
+2021-07-20,18:43:50.571 INFO {copy_main} [wrapper] Form data is processing ... (14120006)
+2021-07-20,18:43:50.571 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14120006)
+2021-07-20,18:43:50.682 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14120005)
+2021-07-20,18:43:51.072 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14120006)
+2021-07-20,18:43:51.382 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.699378 seconds ... (14120005)
+2021-07-20,18:43:51.384 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14120005)
+2021-07-20,18:43:51.384 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14120005)
+2021-07-20,18:43:51.384 INFO {AsyncConcurrency} [main] 14120007 has been added to the task list.
+						So far (49) Part Number has been added to the task list.
+2021-07-20,18:43:51.385 INFO {AsyncConcurrency} [renew_tor] LOOKING FOR NEW IP...
+2021-07-20,18:43:51.386 TRACE {log} [log] GETCONF __owningcontrollerprocess (cache fetch)
+2021-07-20,18:43:51.386 INFO {AsyncConcurrency} [renew_tor] New ip address is available.
+2021-07-20,18:43:51.687 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.613995 seconds ... (14120006)
+2021-07-20,18:43:51.689 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14120006)
+2021-07-20,18:43:51.689 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14120006)
+2021-07-20,18:43:53.062 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.372038 seconds ... (14120007)
+2021-07-20,18:43:53.250 INFO {copy_main} [get_part_number] 14120007 successfully found
+2021-07-20,18:43:53.250 INFO {copy_main} [get_images] Getting images for ... (14120007)
+2021-07-20,18:43:53.251 INFO {copy_main} [wrapper] Form data is processing ... (14120007)
+2021-07-20,18:43:53.251 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14120007)
+2021-07-20,18:43:53.252 INFO {AsyncConcurrency} [main] NEW IP ADDRESS IS ... (109.70.100.31)
+2021-07-20,18:43:53.252 INFO {AsyncConcurrency} [main] 14120008 has been added to the task list.
+						So far (50) Part Number has been added to the task list.
+2021-07-20,18:43:53.753 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14120007)
+2021-07-20,18:43:54.376 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.622706 seconds ... (14120007)
+2021-07-20,18:43:54.377 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14120007)
+2021-07-20,18:43:54.378 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14120007)
+2021-07-20,18:43:54.547 INFO {copy_main} [get_part_number] Rockauto Part Number Search took 0:00:01.043600 seconds ... (14120008)
+2021-07-20,18:43:54.733 INFO {copy_main} [get_part_number] 14120008 successfully found
+2021-07-20,18:43:54.734 INFO {copy_main} [get_images] Getting images for ... (14120008)
+2021-07-20,18:43:54.734 INFO {copy_main} [wrapper] Form data is processing ... (14120008)
+2021-07-20,18:43:54.735 INFO {copy_main} [get_make_model_year_form_data] Successfully created form data for Make Model Year post request ... (14120008)
+2021-07-20,18:43:55.236 INFO {copy_main} [get_make_model_year] Getting Make Model Year for ... (14120008)
+2021-07-20,18:43:55.684 INFO {copy_main} [get_make_model_year] Rockauto Make Model Year data took 0:00:00.446919 seconds ... (14120008)
+2021-07-20,18:43:55.685 INFO {copy_main} [get_make_model_year] Successfully gathered Make Model Year info ... (14120008)
+2021-07-20,18:43:55.685 INFO {copy_main} [get_oem_numbers] Checking OEM numbers for ... (14120008)
+2021-07-20,18:43:55.687 INFO {AsyncConcurrency} [<module>] Writing to json file...
+2021-07-20,18:43:55.691 INFO {AsyncConcurrency} [<module>] --- 83.58266282081604 seconds ---
